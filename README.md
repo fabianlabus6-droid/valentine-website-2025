@@ -83,7 +83,7 @@ loveMessages: {
 
 // Final Celebration
 celebration: {
-    title: "Yay! Jestem najszczęsliwszym chłopakie na świecie...",     // Celebration title
+    title: "Yay! Jestem najszczęsliwszym chłopakiem na świecie...",     // Celebration title
     message: "Teraz dam ci prezent...",          // Celebration message
     emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
 }
